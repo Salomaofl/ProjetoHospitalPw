@@ -1,0 +1,67 @@
+.card1{
+width: 200px;
+border: 1px solid #ccc;
+color: rgb(10, 10, 10);
+display: inline-grid;
+box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+padding: 0 20px 20px;
+margin-top: auto;
+
+
+}
+
+.card2{
+
+    width: 200px;
+    border: 1px solid #ccc;
+    color: rgb(10, 10, 10);
+    display: inline-grid;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+    padding: 0 20px 20px;
+    margin-top: auto;
+    grid-gap: 20px;
+    align-items: center;
+
+
+}
+
+.btn1{
+  align-items: center;
+  appearance: none;
+  background-color: #3EB2FD;
+  background-image: linear-gradient(1deg, #4F58FD, #149BF3 99%);
+  background-size: calc(100% + 20px) calc(100% + 20px);
+  border-radius: 100px;
+  border-width: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: CircularStd,sans-serif;
+  font-size: 1rem;
+  height: auto;
+  justify-content: center;
+  line-height: 1.5;
+  padding: 6px 20px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color .2s,background-position .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.Home{
+
+align-items: baseline;
+
+}
+
+.link{
+
+color: rgb(252, 0, 197);
+}
